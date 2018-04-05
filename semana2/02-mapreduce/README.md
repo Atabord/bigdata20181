@@ -46,7 +46,7 @@ Tomado de: https://hadoop.apache.org/docs/r2.7.3/hadoop-mapreduce-client/hadoop-
 >		user@master$ sudo pip install --upgrade pip
 >		user@master$ sudo pip install mrjob
 
-* Si desea utilizar un manejador de versiones de python en su propio, puede ser así:
+* (OPCIONAL) Si desea utilizar un manejador de versiones de python en su propio, puede ser así:
 
 primero instalar pyenv (https://github.com/pyenv/pyenv-installer)
 
